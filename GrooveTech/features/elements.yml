@@ -1,0 +1,7 @@
+btnLogin: '.btn.btn-user.hidden-sm.hidden-xs'
+campoCpf: '.form-control.cpf'
+cpf: '37372648807'
+campoSenha: '#senha'
+senha: '123456'
+btnLogar: '#login-button'
+texto: '.btn.btn-user.logado.text-center'
